@@ -1,5 +1,5 @@
 """
-URL configuration for a1_univ_angers project.
+URL configuration for app project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.1/topics/http/urls/
